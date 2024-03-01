@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeControl", "YouTubeControl\YouTubeControl.csproj", "{DD2DD613-A6BA-447C-804A-BD5134059DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2DD613-A6BA-447C-804A-BD5134059DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2DD613-A6BA-447C-804A-BD5134059DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2DD613-A6BA-447C-804A-BD5134059DE6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DD2DD613-A6BA-447C-804A-BD5134059DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2DD613-A6BA-447C-804A-BD5134059DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2DD613-A6BA-447C-804A-BD5134059DE6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0CDDD32-0C6E-475F-98BA-DB5686ABA254}
+	EndGlobalSection
+EndGlobal
